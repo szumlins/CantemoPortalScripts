@@ -8,3 +8,7 @@ and expect that the appropriate matched Cantemo Portal field_id is set.  When th
 named "CatDV" into Portal.
 
 This script assumes your metadata group in Portal is named CatDV.
+
+2) handler-multi.py
+
+This is an example script for handling multiple assets using the Cantem Agent "Open With..." menu item with a simple Python GUI
